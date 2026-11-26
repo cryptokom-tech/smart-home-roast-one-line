@@ -6,9 +6,9 @@
 
 Entry for the [Roast the Smart Fridge: One Line, Best Laugh Wins](https://make.fun/c/u-kiencx-roast-the-smart-fridge-one-line-best-laugh-b354d6c9) bounty on [make.fun](https://make.fun).
 
-`main.py` (Python 3, standard library only) writes one original roast of a smart home gadget — 107 characters, a single line — to `/output/entry.txt`:
+`main.py` (Python 3, standard library only) writes one original roast of a smart home gadget — 109 characters, a single line — to `/output/entry.txt`:
 
-> My smart thermostat learned my schedule so well it now pre-cools the house for arguments I haven't had yet.
+> My video doorbell knows every courier by name, yet still files my mum as 'unknown visitor, possibly hostile'.
 
 ## Run
 
